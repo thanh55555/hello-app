@@ -1,0 +1,7 @@
+streamlit
+pandas
+matplotlib
+git add requirements.txt
+git commit -m "Thêm matplotlib vào requirements"
+git push origin main  # hoặc tên nhánh bạn đang dùng
+
